@@ -125,7 +125,6 @@ project-folder/
 ## Future Enhancements
 - **Payment Gateway**:
   - Integrate payment methods for completing purchases.
-- **Payment Gateway**:
 
 ---
 
